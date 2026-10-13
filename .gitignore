@@ -1,0 +1,13 @@
+# Unity / Godot / General Game Engine Ignores
+Library/
+Temp/
+Obj/
+Logs/
+MemoryCaptures/
+Builds/
+UserSettings/
+.vscode/
+*.csproj
+*.sln
+.DS_Store
+Thumbs.db
